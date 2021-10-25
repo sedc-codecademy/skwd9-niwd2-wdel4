@@ -1,0 +1,15 @@
+﻿@model List<ProductViewModel>
+
+<h2>Menu</h2>
+<h4>Products</h4>
+
+<a asp-controller="Product" asp-action="CreateProduct">Add a new product to the menu</a>
+
+@foreach(var product in Model)
+{
+    <ul style="list-style-type: none;">
+        <li>Product Name: @product.Name</li>
+
+        <li><a asp-controller="Product" asp-action="Details" asp-route-id="@product.Id">See details for Product</a></li>
+    </ul>
+}
