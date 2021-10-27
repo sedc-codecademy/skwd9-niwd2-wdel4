@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SEDC.Lamazon.Mappers/1.0.0": {
+        "dependencies": {
+          "SEDC.Lamazon.Domain": "1.0.0",
+          "SEDC.Lamazon.ViewModels": "1.0.0"
+        },
+        "runtime": {
+          "SEDC.Lamazon.Mappers.dll": {}
+        }
+      },
+      "SEDC.Lamazon.Domain/1.0.0": {
+        "runtime": {
+          "SEDC.Lamazon.Domain.dll": {}
+        }
+      },
+      "SEDC.Lamazon.ViewModels/1.0.0": {
+        "dependencies": {
+          "SEDC.Lamazon.Domain": "1.0.0"
+        },
+        "runtime": {
+          "SEDC.Lamazon.ViewModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SEDC.Lamazon.Mappers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SEDC.Lamazon.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SEDC.Lamazon.ViewModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

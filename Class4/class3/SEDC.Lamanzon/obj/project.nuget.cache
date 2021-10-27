@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zCjUQ8BdXkmutIVFXKrzEMxveJsxXEMDT5Zsiecm62wW0hGyRTTdxOnZyphVI/GedEeNsQ0YaAlz4mhUEgBx/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Manass\\Desktop\\class3\\SEDC.Lamanzon\\SEDC.Lamanzon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Manass\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

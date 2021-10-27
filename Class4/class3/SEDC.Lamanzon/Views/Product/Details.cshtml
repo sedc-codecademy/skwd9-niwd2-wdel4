@@ -1,0 +1,11 @@
+﻿@model ProductViewModel
+
+
+<h2>Product Details</h2>
+<hr />
+<p>Product Name: @Model.Name</p>
+<p>Product Description: @Model.Description</p>
+<p>Product Category: @Model.Category</p>
+<p>Product Price: @Model.Price</p>
+
+<a asp-controller="Product" asp-action="index">Return</a>

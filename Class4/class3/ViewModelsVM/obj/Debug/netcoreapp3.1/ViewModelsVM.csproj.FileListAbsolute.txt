@@ -1,0 +1,13 @@
+C:\Users\Manass\Desktop\class3\ViewModelsVM\bin\Debug\netcoreapp3.1\ViewModelsVM.deps.json
+C:\Users\Manass\Desktop\class3\ViewModelsVM\bin\Debug\netcoreapp3.1\ViewModelsVM.dll
+C:\Users\Manass\Desktop\class3\ViewModelsVM\bin\Debug\netcoreapp3.1\ViewModelsVM.pdb
+C:\Users\Manass\Desktop\class3\ViewModelsVM\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Manass\Desktop\class3\ViewModelsVM\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Manass\Desktop\class3\ViewModelsVM\obj\Debug\netcoreapp3.1\ViewModelsVM.csproj.AssemblyReference.cache
+C:\Users\Manass\Desktop\class3\ViewModelsVM\obj\Debug\netcoreapp3.1\ViewModelsVM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manass\Desktop\class3\ViewModelsVM\obj\Debug\netcoreapp3.1\ViewModelsVM.AssemblyInfoInputs.cache
+C:\Users\Manass\Desktop\class3\ViewModelsVM\obj\Debug\netcoreapp3.1\ViewModelsVM.AssemblyInfo.cs
+C:\Users\Manass\Desktop\class3\ViewModelsVM\obj\Debug\netcoreapp3.1\ViewModelsVM.csproj.CoreCompileInputs.cache
+C:\Users\Manass\Desktop\class3\ViewModelsVM\obj\Debug\netcoreapp3.1\ViewModelsVM.csproj.CopyComplete
+C:\Users\Manass\Desktop\class3\ViewModelsVM\obj\Debug\netcoreapp3.1\ViewModelsVM.dll
+C:\Users\Manass\Desktop\class3\ViewModelsVM\obj\Debug\netcoreapp3.1\ViewModelsVM.pdb

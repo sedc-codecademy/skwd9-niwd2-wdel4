@@ -1,0 +1,17 @@
+﻿@model  OrderViewModel
+<h2>Order Details</h2>
+
+<ul style="list-style-type: none;">
+    <li>Price: @Model.Price</li>
+    <li>Payment Status: @Model.Status</li>
+    <li>User Full Name: @Model.UserFullName</li>
+    <li>
+        <ol>
+            @foreach(var productName in Model.ProductNames)
+            {
+                <li>@productName</li>
+            }
+        </ol>
+    </li>
+</ul>
+<a asp-controller="Order" asp-action="Index">Return</a>

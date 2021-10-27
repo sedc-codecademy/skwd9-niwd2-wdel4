@@ -1,0 +1,13 @@
+C:\Users\Manass\Desktop\class3\SEDC.Lamazon.DataAccess\bin\Debug\netcoreapp3.1\SEDC.Lamazon.DataAccess.deps.json
+C:\Users\Manass\Desktop\class3\SEDC.Lamazon.DataAccess\bin\Debug\netcoreapp3.1\SEDC.Lamazon.DataAccess.dll
+C:\Users\Manass\Desktop\class3\SEDC.Lamazon.DataAccess\bin\Debug\netcoreapp3.1\SEDC.Lamazon.DataAccess.pdb
+C:\Users\Manass\Desktop\class3\SEDC.Lamazon.DataAccess\bin\Debug\netcoreapp3.1\SEDC.Lamazon.Domain.dll
+C:\Users\Manass\Desktop\class3\SEDC.Lamazon.DataAccess\bin\Debug\netcoreapp3.1\SEDC.Lamazon.Domain.pdb
+C:\Users\Manass\Desktop\class3\SEDC.Lamazon.DataAccess\obj\Debug\netcoreapp3.1\SEDC.Lamazon.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Manass\Desktop\class3\SEDC.Lamazon.DataAccess\obj\Debug\netcoreapp3.1\SEDC.Lamazon.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manass\Desktop\class3\SEDC.Lamazon.DataAccess\obj\Debug\netcoreapp3.1\SEDC.Lamazon.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Manass\Desktop\class3\SEDC.Lamazon.DataAccess\obj\Debug\netcoreapp3.1\SEDC.Lamazon.DataAccess.AssemblyInfo.cs
+C:\Users\Manass\Desktop\class3\SEDC.Lamazon.DataAccess\obj\Debug\netcoreapp3.1\SEDC.Lamazon.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Manass\Desktop\class3\SEDC.Lamazon.DataAccess\obj\Debug\netcoreapp3.1\SEDC.Lamazon.DataAccess.csproj.CopyComplete
+C:\Users\Manass\Desktop\class3\SEDC.Lamazon.DataAccess\obj\Debug\netcoreapp3.1\SEDC.Lamazon.DataAccess.dll
+C:\Users\Manass\Desktop\class3\SEDC.Lamazon.DataAccess\obj\Debug\netcoreapp3.1\SEDC.Lamazon.DataAccess.pdb

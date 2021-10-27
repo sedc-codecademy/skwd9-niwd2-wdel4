@@ -1,0 +1,32 @@
+﻿@model ProductViewModel
+
+<h2>Add a new product to the menu</h2>
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="CreateProductPost" asp-controller="Product" method="post">
+            <div class="form-control">
+                <label asp-for="Name"></label>
+                <input asp-for="Name" required />
+            </div>
+
+            <div class="form-control">
+                <label asp-for="Description"></label>
+                <input asp-for="Description" required />
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Category" class="control-label"></label>
+                <select class="form-control" asp-for="Category" asp-items="Html.GetEnumSelectList<CategoryType>()"></select>
+            </div>
+
+            <div class="form-control">
+                <label asp-for="Price"></label>
+                <input asp-for="Price" required />
+            </div>
+
+            <button type="submit" class="btn btn-default">Create Product</button>
+            <a asp-controller="Product" asp-action="index">Cancel</a>
+
+        </form>
+    </div>
+</div>

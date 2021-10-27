@@ -1,0 +1,13 @@
+﻿@model ProductViewModel
+
+
+<h2>Delete Product Page</h2>
+<h4>Are you sure you want to delete @Model.Name</h4>
+
+<form asp-action="DeleteProductPost" method="post">
+    <input type="hidden" asp-for="Id"/>
+    <input type="submit" value="Delete"/>
+    <div>
+        <a asp-controller="Product" asp-action="Index">Cancel</a>
+    </div>
+</form>

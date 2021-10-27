@@ -1,0 +1,13 @@
+﻿@model List<OrderViewModel>
+
+<h2>List of orders:</h2>
+
+@foreach(OrderViewModel order in @Model)
+{
+    <ul style="list-style-type: none">
+        <li>User Full Name: @order.UserFullName</li>
+        <li>Total Cost: @order.Price</li>
+        <li><a asp-controller="Order" asp-action="Details" asp-route-id="@order.Id">See Details</a></li>
+    </ul>
+    <hr />
+}

@@ -1,0 +1,15 @@
+C:\Users\Manass\Desktop\class3\SEDC.Lamazon.Mappers\bin\Debug\netcoreapp3.1\SEDC.Lamazon.Mappers.deps.json
+C:\Users\Manass\Desktop\class3\SEDC.Lamazon.Mappers\bin\Debug\netcoreapp3.1\SEDC.Lamazon.Mappers.dll
+C:\Users\Manass\Desktop\class3\SEDC.Lamazon.Mappers\bin\Debug\netcoreapp3.1\SEDC.Lamazon.Mappers.pdb
+C:\Users\Manass\Desktop\class3\SEDC.Lamazon.Mappers\bin\Debug\netcoreapp3.1\SEDC.Lamazon.Domain.dll
+C:\Users\Manass\Desktop\class3\SEDC.Lamazon.Mappers\bin\Debug\netcoreapp3.1\SEDC.Lamazon.ViewModels.dll
+C:\Users\Manass\Desktop\class3\SEDC.Lamazon.Mappers\bin\Debug\netcoreapp3.1\SEDC.Lamazon.Domain.pdb
+C:\Users\Manass\Desktop\class3\SEDC.Lamazon.Mappers\bin\Debug\netcoreapp3.1\SEDC.Lamazon.ViewModels.pdb
+C:\Users\Manass\Desktop\class3\SEDC.Lamazon.Mappers\obj\Debug\netcoreapp3.1\SEDC.Lamazon.Mappers.csproj.AssemblyReference.cache
+C:\Users\Manass\Desktop\class3\SEDC.Lamazon.Mappers\obj\Debug\netcoreapp3.1\SEDC.Lamazon.Mappers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manass\Desktop\class3\SEDC.Lamazon.Mappers\obj\Debug\netcoreapp3.1\SEDC.Lamazon.Mappers.AssemblyInfoInputs.cache
+C:\Users\Manass\Desktop\class3\SEDC.Lamazon.Mappers\obj\Debug\netcoreapp3.1\SEDC.Lamazon.Mappers.AssemblyInfo.cs
+C:\Users\Manass\Desktop\class3\SEDC.Lamazon.Mappers\obj\Debug\netcoreapp3.1\SEDC.Lamazon.Mappers.csproj.CoreCompileInputs.cache
+C:\Users\Manass\Desktop\class3\SEDC.Lamazon.Mappers\obj\Debug\netcoreapp3.1\SEDC.Lamazon.Mappers.csproj.CopyComplete
+C:\Users\Manass\Desktop\class3\SEDC.Lamazon.Mappers\obj\Debug\netcoreapp3.1\SEDC.Lamazon.Mappers.dll
+C:\Users\Manass\Desktop\class3\SEDC.Lamazon.Mappers\obj\Debug\netcoreapp3.1\SEDC.Lamazon.Mappers.pdb

@@ -1,0 +1,33 @@
+﻿@model ProductViewModel
+
+<h2>Edit Product</h2>
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="EditProductPost" method="post">
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" required/>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Description" class="control-label"></label>
+                <input asp-for="Description" class="form-control" required/>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Category" class="form-label"></label>
+                <select class="form-control" asp-for="Category" asp-items="Html.GetEnumSelectList<CategoryType>()"></select>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Price" class="control-label"></label>
+                <input asp-for="Price" class="form-control" required/>
+            </div>
+            <button type="submit" class="btn btn-default">Update</button>
+            <div>
+                <a asp-controller="Product" asp-action="Index">Return</a>
+            </div>
+        </form>
+    </div>
+</div>

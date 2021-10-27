@@ -1,0 +1,428 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Manass\\Desktop\\repoo mvcccc\\skwd9-niwd2-wdel4\\Class4\\class3\\claas03Lamazon\\claas03Lamazon.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Manass\\Desktop\\repoo mvcccc\\skwd9-niwd2-wdel4\\Class4\\class3\\claas03Lamazon\\claas03Lamazon.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Manass\\Desktop\\repoo mvcccc\\skwd9-niwd2-wdel4\\Class4\\class3\\claas03Lamazon\\claas03Lamazon.csproj",
+        "projectName": "claas03Lamazon",
+        "projectPath": "C:\\Users\\Manass\\Desktop\\repoo mvcccc\\skwd9-niwd2-wdel4\\Class4\\class3\\claas03Lamazon\\claas03Lamazon.csproj",
+        "packagesPath": "C:\\Users\\Manass\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Manass\\Desktop\\repoo mvcccc\\skwd9-niwd2-wdel4\\Class4\\class3\\claas03Lamazon\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Manass\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Manass\\Desktop\\repoo mvcccc\\skwd9-niwd2-wdel4\\Class4\\class3\\Helper\\Helper.csproj": {
+                "projectPath": "C:\\Users\\Manass\\Desktop\\repoo mvcccc\\skwd9-niwd2-wdel4\\Class4\\class3\\Helper\\Helper.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Manass\\Desktop\\repoo mvcccc\\skwd9-niwd2-wdel4\\Class4\\class3\\DataAccess\\DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Manass\\Desktop\\repoo mvcccc\\skwd9-niwd2-wdel4\\Class4\\class3\\DataAccess\\DataAccess.csproj",
+        "projectName": "DataAccess",
+        "projectPath": "C:\\Users\\Manass\\Desktop\\repoo mvcccc\\skwd9-niwd2-wdel4\\Class4\\class3\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Manass\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Manass\\Desktop\\repoo mvcccc\\skwd9-niwd2-wdel4\\Class4\\class3\\DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Manass\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Manass\\Desktop\\repoo mvcccc\\skwd9-niwd2-wdel4\\Class4\\class3\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Manass\\Desktop\\repoo mvcccc\\skwd9-niwd2-wdel4\\Class4\\class3\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Manass\\Desktop\\repoo mvcccc\\skwd9-niwd2-wdel4\\Class4\\class3\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Manass\\Desktop\\repoo mvcccc\\skwd9-niwd2-wdel4\\Class4\\class3\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "C:\\Users\\Manass\\Desktop\\repoo mvcccc\\skwd9-niwd2-wdel4\\Class4\\class3\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Manass\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Manass\\Desktop\\repoo mvcccc\\skwd9-niwd2-wdel4\\Class4\\class3\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Manass\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Manass\\Desktop\\repoo mvcccc\\skwd9-niwd2-wdel4\\Class4\\class3\\Helper\\Helper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Manass\\Desktop\\repoo mvcccc\\skwd9-niwd2-wdel4\\Class4\\class3\\Helper\\Helper.csproj",
+        "projectName": "Helper",
+        "projectPath": "C:\\Users\\Manass\\Desktop\\repoo mvcccc\\skwd9-niwd2-wdel4\\Class4\\class3\\Helper\\Helper.csproj",
+        "packagesPath": "C:\\Users\\Manass\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Manass\\Desktop\\repoo mvcccc\\skwd9-niwd2-wdel4\\Class4\\class3\\Helper\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Manass\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Manass\\Desktop\\repoo mvcccc\\skwd9-niwd2-wdel4\\Class4\\class3\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Manass\\Desktop\\repoo mvcccc\\skwd9-niwd2-wdel4\\Class4\\class3\\DataAccess\\DataAccess.csproj"
+              },
+              "C:\\Users\\Manass\\Desktop\\repoo mvcccc\\skwd9-niwd2-wdel4\\Class4\\class3\\Services\\Services.csproj": {
+                "projectPath": "C:\\Users\\Manass\\Desktop\\repoo mvcccc\\skwd9-niwd2-wdel4\\Class4\\class3\\Services\\Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Manass\\Desktop\\repoo mvcccc\\skwd9-niwd2-wdel4\\Class4\\class3\\Mappers\\Mappers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Manass\\Desktop\\repoo mvcccc\\skwd9-niwd2-wdel4\\Class4\\class3\\Mappers\\Mappers.csproj",
+        "projectName": "Mappers",
+        "projectPath": "C:\\Users\\Manass\\Desktop\\repoo mvcccc\\skwd9-niwd2-wdel4\\Class4\\class3\\Mappers\\Mappers.csproj",
+        "packagesPath": "C:\\Users\\Manass\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Manass\\Desktop\\repoo mvcccc\\skwd9-niwd2-wdel4\\Class4\\class3\\Mappers\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Manass\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Manass\\Desktop\\repoo mvcccc\\skwd9-niwd2-wdel4\\Class4\\class3\\ViewModelsVM\\ViewModelsVM.csproj": {
+                "projectPath": "C:\\Users\\Manass\\Desktop\\repoo mvcccc\\skwd9-niwd2-wdel4\\Class4\\class3\\ViewModelsVM\\ViewModelsVM.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Manass\\Desktop\\repoo mvcccc\\skwd9-niwd2-wdel4\\Class4\\class3\\Services\\Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Manass\\Desktop\\repoo mvcccc\\skwd9-niwd2-wdel4\\Class4\\class3\\Services\\Services.csproj",
+        "projectName": "Services",
+        "projectPath": "C:\\Users\\Manass\\Desktop\\repoo mvcccc\\skwd9-niwd2-wdel4\\Class4\\class3\\Services\\Services.csproj",
+        "packagesPath": "C:\\Users\\Manass\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Manass\\Desktop\\repoo mvcccc\\skwd9-niwd2-wdel4\\Class4\\class3\\Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Manass\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Manass\\Desktop\\repoo mvcccc\\skwd9-niwd2-wdel4\\Class4\\class3\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Manass\\Desktop\\repoo mvcccc\\skwd9-niwd2-wdel4\\Class4\\class3\\DataAccess\\DataAccess.csproj"
+              },
+              "C:\\Users\\Manass\\Desktop\\repoo mvcccc\\skwd9-niwd2-wdel4\\Class4\\class3\\Mappers\\Mappers.csproj": {
+                "projectPath": "C:\\Users\\Manass\\Desktop\\repoo mvcccc\\skwd9-niwd2-wdel4\\Class4\\class3\\Mappers\\Mappers.csproj"
+              },
+              "C:\\Users\\Manass\\Desktop\\repoo mvcccc\\skwd9-niwd2-wdel4\\Class4\\class3\\ViewModelsVM\\ViewModelsVM.csproj": {
+                "projectPath": "C:\\Users\\Manass\\Desktop\\repoo mvcccc\\skwd9-niwd2-wdel4\\Class4\\class3\\ViewModelsVM\\ViewModelsVM.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Manass\\Desktop\\repoo mvcccc\\skwd9-niwd2-wdel4\\Class4\\class3\\ViewModelsVM\\ViewModelsVM.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Manass\\Desktop\\repoo mvcccc\\skwd9-niwd2-wdel4\\Class4\\class3\\ViewModelsVM\\ViewModelsVM.csproj",
+        "projectName": "ViewModelsVM",
+        "projectPath": "C:\\Users\\Manass\\Desktop\\repoo mvcccc\\skwd9-niwd2-wdel4\\Class4\\class3\\ViewModelsVM\\ViewModelsVM.csproj",
+        "packagesPath": "C:\\Users\\Manass\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Manass\\Desktop\\repoo mvcccc\\skwd9-niwd2-wdel4\\Class4\\class3\\ViewModelsVM\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Manass\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Manass\\Desktop\\repoo mvcccc\\skwd9-niwd2-wdel4\\Class4\\class3\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Manass\\Desktop\\repoo mvcccc\\skwd9-niwd2-wdel4\\Class4\\class3\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

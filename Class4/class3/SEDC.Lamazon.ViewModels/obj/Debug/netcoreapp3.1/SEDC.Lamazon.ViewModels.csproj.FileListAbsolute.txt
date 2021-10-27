@@ -1,0 +1,13 @@
+C:\Users\Manass\Desktop\class3\SEDC.Lamazon.ViewModels\bin\Debug\netcoreapp3.1\SEDC.Lamazon.ViewModels.deps.json
+C:\Users\Manass\Desktop\class3\SEDC.Lamazon.ViewModels\bin\Debug\netcoreapp3.1\SEDC.Lamazon.ViewModels.dll
+C:\Users\Manass\Desktop\class3\SEDC.Lamazon.ViewModels\bin\Debug\netcoreapp3.1\SEDC.Lamazon.ViewModels.pdb
+C:\Users\Manass\Desktop\class3\SEDC.Lamazon.ViewModels\bin\Debug\netcoreapp3.1\SEDC.Lamazon.Domain.dll
+C:\Users\Manass\Desktop\class3\SEDC.Lamazon.ViewModels\bin\Debug\netcoreapp3.1\SEDC.Lamazon.Domain.pdb
+C:\Users\Manass\Desktop\class3\SEDC.Lamazon.ViewModels\obj\Debug\netcoreapp3.1\SEDC.Lamazon.ViewModels.csproj.AssemblyReference.cache
+C:\Users\Manass\Desktop\class3\SEDC.Lamazon.ViewModels\obj\Debug\netcoreapp3.1\SEDC.Lamazon.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manass\Desktop\class3\SEDC.Lamazon.ViewModels\obj\Debug\netcoreapp3.1\SEDC.Lamazon.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Manass\Desktop\class3\SEDC.Lamazon.ViewModels\obj\Debug\netcoreapp3.1\SEDC.Lamazon.ViewModels.AssemblyInfo.cs
+C:\Users\Manass\Desktop\class3\SEDC.Lamazon.ViewModels\obj\Debug\netcoreapp3.1\SEDC.Lamazon.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Manass\Desktop\class3\SEDC.Lamazon.ViewModels\obj\Debug\netcoreapp3.1\SEDC.Lamazon.ViewModels.csproj.CopyComplete
+C:\Users\Manass\Desktop\class3\SEDC.Lamazon.ViewModels\obj\Debug\netcoreapp3.1\SEDC.Lamazon.ViewModels.dll
+C:\Users\Manass\Desktop\class3\SEDC.Lamazon.ViewModels\obj\Debug\netcoreapp3.1\SEDC.Lamazon.ViewModels.pdb
