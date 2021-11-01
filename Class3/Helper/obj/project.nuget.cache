@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HIX7wNfFN6xJP9hoK3ufSY4wpH9hEFKOp9b9OqkJ66WYDSapCKpAecQxzVs755kF5GSuGhLnewSW/WirTS1nrg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\Helper\\Helper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

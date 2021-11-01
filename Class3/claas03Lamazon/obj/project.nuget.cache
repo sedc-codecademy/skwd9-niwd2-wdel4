@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ikqy+csDOoLlwHDQY4YVGZbMexRj2tFeczgtdC+PhKBKGycKucRzGiciIloqjOGQtvknczaV+X5zuxNTi5QYgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\claas03Lamazon\\claas03Lamazon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
