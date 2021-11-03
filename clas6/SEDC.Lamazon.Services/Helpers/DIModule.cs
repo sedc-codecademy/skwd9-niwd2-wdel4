@@ -2,6 +2,8 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using SEDC.Lamazon.DataAccess;
+using SEDC.Lamazon.DataAccess.Interfaces;
+using SEDC.Lamazon.DataAccess.Repositories;
 using SEDC.Lamazon.Domain.Models;
 using System;
 using System.Collections.Generic;
@@ -25,6 +27,10 @@ namespace SEDC.Lamazon.Services.Helpers
             .AddRoleManager<RoleManager<IdentityRole>>()
             .AddEntityFrameworkStores<LamazonDbContext>()
             .AddDefaultTokenProviders();
+
+            services.AddTransient<IUserRepository, UserRepository>();
+            services.AddTransient<IRepository<Order>, OrderRepository>();
+            services.AddTransient<IRepository<Product>, ProductRepository>();
 
             return services;
         }

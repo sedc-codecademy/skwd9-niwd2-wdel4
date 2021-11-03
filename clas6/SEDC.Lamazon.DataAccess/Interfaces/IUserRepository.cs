@@ -5,7 +5,7 @@ using System.Text;
 
 namespace SEDC.Lamazon.DataAccess.Interfaces
 {
-    public interface IUserRepository
+    public interface IUserRepository 
     {
         User GetByUsername(string username);
         User GetById(string id);

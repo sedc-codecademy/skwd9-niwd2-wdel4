@@ -14,7 +14,14 @@ namespace SEDC.Lamazon.DataAccess.Repositories
 
         public int Delete(int id)
         {
-            throw new NotImplementedException();
+            Order order = _db.Orders.SingleOrDefault(x => x.Id == id);
+
+            if (order == null)
+            {
+                return -1;
+            }
+            _db.Orders.Remove(order);
+            return _db.SaveChanges();
         }
 
         public IEnumerable<Order> GetAll()
@@ -42,7 +49,8 @@ namespace SEDC.Lamazon.DataAccess.Repositories
 
         public int Update(Order entity)
         {
-            throw new NotImplementedException();
+            _db.Orders.Update(entity);
+            return _db.SaveChanges();
         }
     }
 }
