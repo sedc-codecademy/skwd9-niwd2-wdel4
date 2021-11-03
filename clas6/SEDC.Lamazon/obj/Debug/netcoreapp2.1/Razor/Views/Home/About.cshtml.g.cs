@@ -23,8 +23,13 @@ using SEDC.Lamazon.Models;
 
 #line default
 #line hidden
+#line 3 "C:\Users\Manass\Desktop\clas6\SEDC.Lamazon\Views\_ViewImports.cshtml"
+using SEDC.Lamazon.WebModels.ViewModels;
+
+#line default
+#line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"f5989146c20e297d05361cc87bf290b8b98e9284", @"/Views/Home/About.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"e03c5695cecd98823f739a20f56e3378d4bd51f6", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"84ad5ceecc2b07a896b3347b082c7ac0c1d67fad", @"/Views/_ViewImports.cshtml")]
     public class Views_Home_About : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #pragma warning disable 1998

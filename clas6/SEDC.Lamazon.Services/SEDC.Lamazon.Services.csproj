@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="2.1.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.1.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="2.1.0" />
@@ -19,10 +20,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\SEDC.Lamazon.DataAccess\SEDC.Lamazon.DataAccess.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Services\" />
+    <ProjectReference Include="..\SEDC.Lamazon.WebModels\SEDC.Lamazon.WebModels.csproj" />
   </ItemGroup>
 
 </Project>

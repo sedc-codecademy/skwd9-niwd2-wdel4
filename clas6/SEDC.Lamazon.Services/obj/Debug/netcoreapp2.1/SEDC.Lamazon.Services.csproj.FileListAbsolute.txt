@@ -34,3 +34,5 @@ C:\Users\Manass\Desktop\clas6\SEDC.Lamazon.Services\obj\Debug\netcoreapp2.1\SEDC
 C:\Users\Manass\Desktop\clas6\SEDC.Lamazon.Services\obj\Debug\netcoreapp2.1\SEDC.Lamazon.Services.dll
 C:\Users\Manass\Desktop\clas6\SEDC.Lamazon.Services\obj\Debug\netcoreapp2.1\SEDC.Lamazon.Services.pdb
 C:\Users\Manass\Desktop\clas6\SEDC.Lamazon.Services\obj\Debug\netcoreapp2.1\SEDC.Lamazon.Services.genruntimeconfig.cache
+C:\Users\Manass\Desktop\clas6\SEDC.Lamazon.Services\bin\Debug\netcoreapp2.1\SEDC.Lamazon.WebModels.dll
+C:\Users\Manass\Desktop\clas6\SEDC.Lamazon.Services\bin\Debug\netcoreapp2.1\SEDC.Lamazon.WebModels.pdb

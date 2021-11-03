@@ -1,0 +1,10 @@
+C:\Users\Manass\Desktop\clas6\SEDC.Lamazon.WebModels\bin\Debug\netcoreapp2.1\SEDC.Lamazon.WebModels.deps.json
+C:\Users\Manass\Desktop\clas6\SEDC.Lamazon.WebModels\bin\Debug\netcoreapp2.1\SEDC.Lamazon.WebModels.dll
+C:\Users\Manass\Desktop\clas6\SEDC.Lamazon.WebModels\bin\Debug\netcoreapp2.1\SEDC.Lamazon.WebModels.pdb
+C:\Users\Manass\Desktop\clas6\SEDC.Lamazon.WebModels\obj\Debug\netcoreapp2.1\SEDC.Lamazon.WebModels.csproj.AssemblyReference.cache
+C:\Users\Manass\Desktop\clas6\SEDC.Lamazon.WebModels\obj\Debug\netcoreapp2.1\SEDC.Lamazon.WebModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manass\Desktop\clas6\SEDC.Lamazon.WebModels\obj\Debug\netcoreapp2.1\SEDC.Lamazon.WebModels.AssemblyInfoInputs.cache
+C:\Users\Manass\Desktop\clas6\SEDC.Lamazon.WebModels\obj\Debug\netcoreapp2.1\SEDC.Lamazon.WebModels.AssemblyInfo.cs
+C:\Users\Manass\Desktop\clas6\SEDC.Lamazon.WebModels\obj\Debug\netcoreapp2.1\SEDC.Lamazon.WebModels.csproj.CoreCompileInputs.cache
+C:\Users\Manass\Desktop\clas6\SEDC.Lamazon.WebModels\obj\Debug\netcoreapp2.1\SEDC.Lamazon.WebModels.dll
+C:\Users\Manass\Desktop\clas6\SEDC.Lamazon.WebModels\obj\Debug\netcoreapp2.1\SEDC.Lamazon.WebModels.pdb

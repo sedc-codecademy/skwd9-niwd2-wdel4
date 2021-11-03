@@ -82,3 +82,6 @@ C:\Users\Manass\Desktop\clas6\SEDC.Lamazon\obj\Debug\netcoreapp2.1\SEDC.Lamazon.
 C:\Users\Manass\Desktop\clas6\SEDC.Lamazon\obj\Debug\netcoreapp2.1\SEDC.Lamazon.dll
 C:\Users\Manass\Desktop\clas6\SEDC.Lamazon\obj\Debug\netcoreapp2.1\SEDC.Lamazon.pdb
 C:\Users\Manass\Desktop\clas6\SEDC.Lamazon\obj\Debug\netcoreapp2.1\SEDC.Lamazon.genruntimeconfig.cache
+C:\Users\Manass\Desktop\clas6\SEDC.Lamazon\bin\Debug\netcoreapp2.1\SEDC.Lamazon.WebModels.dll
+C:\Users\Manass\Desktop\clas6\SEDC.Lamazon\bin\Debug\netcoreapp2.1\SEDC.Lamazon.WebModels.pdb
+C:\Users\Manass\Desktop\clas6\SEDC.Lamazon\obj\Debug\netcoreapp2.1\Razor\Views\Product\Products.cshtml.g.cs

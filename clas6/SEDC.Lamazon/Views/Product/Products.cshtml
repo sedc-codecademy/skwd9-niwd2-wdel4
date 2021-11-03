@@ -1,0 +1,20 @@
+﻿@model List<ProductViewModel>
+
+
+<h1>Products</h1>
+
+<div class="products">
+    @foreach (var product in Model)
+    {
+        <div class="thumbnail">
+            <div class="caption">
+                <h3>@product.Name</h3>
+                <h4>@product.Description</h4>
+                <h5>@product.Price $</h5>
+                <p>
+                    <button value="@product.Id" class="btn btn-primary productItem">Add to cart</button>
+                </p>
+            </div>
+       </div>
+     }
+</div>

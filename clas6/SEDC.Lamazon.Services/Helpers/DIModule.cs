@@ -5,6 +5,8 @@ using SEDC.Lamazon.DataAccess;
 using SEDC.Lamazon.DataAccess.Interfaces;
 using SEDC.Lamazon.DataAccess.Repositories;
 using SEDC.Lamazon.Domain.Models;
+using SEDC.Lamazon.Services.Interfaces;
+using SEDC.Lamazon.Services.Services;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -31,6 +33,8 @@ namespace SEDC.Lamazon.Services.Helpers
             services.AddTransient<IUserRepository, UserRepository>();
             services.AddTransient<IRepository<Order>, OrderRepository>();
             services.AddTransient<IRepository<Product>, ProductRepository>();
+
+            services.AddTransient<IProductService, ProductService>();
 
             return services;
         }

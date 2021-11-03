@@ -23,8 +23,13 @@ using SEDC.Lamazon.Models;
 
 #line default
 #line hidden
+#line 3 "C:\Users\Manass\Desktop\clas6\SEDC.Lamazon\Views\_ViewImports.cshtml"
+using SEDC.Lamazon.WebModels.ViewModels;
+
+#line default
+#line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"583387379a597938339285f5a623245873b0a91c", @"/Views/Shared/Error.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"e03c5695cecd98823f739a20f56e3378d4bd51f6", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"84ad5ceecc2b07a896b3347b082c7ac0c1d67fad", @"/Views/_ViewImports.cshtml")]
     public class Views_Shared_Error : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<ErrorViewModel>
     {
         #pragma warning disable 1998
