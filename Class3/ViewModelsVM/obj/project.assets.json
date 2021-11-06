@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\ViewModelsVM\\ViewModelsVM.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\repo\\Class3\\ViewModelsVM\\ViewModelsVM.csproj",
       "projectName": "ViewModelsVM",
-      "projectPath": "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\ViewModelsVM\\ViewModelsVM.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\repo\\Class3\\ViewModelsVM\\ViewModelsVM.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\ViewModelsVM\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\repo\\Class3\\ViewModelsVM\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\Domain\\Domain.csproj"
+            "C:\\Users\\User\\Desktop\\repo\\Class3\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\repo\\Class3\\Domain\\Domain.csproj"
             }
           }
         }

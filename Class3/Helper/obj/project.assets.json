@@ -137,11 +137,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\Helper\\Helper.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\repo\\Class3\\Helper\\Helper.csproj",
       "projectName": "Helper",
-      "projectPath": "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\Helper\\Helper.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\repo\\Class3\\Helper\\Helper.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\Helper\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\repo\\Class3\\Helper\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -158,11 +158,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\User\\Desktop\\repo\\Class3\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\repo\\Class3\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\Services\\Services.csproj": {
-              "projectPath": "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\Services\\Services.csproj"
+            "C:\\Users\\User\\Desktop\\repo\\Class3\\Services\\Services.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\repo\\Class3\\Services\\Services.csproj"
             }
           }
         }

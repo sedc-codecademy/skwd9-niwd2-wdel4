@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\claas03Lamazon\\claas03Lamazon.csproj": {}
+    "C:\\Users\\User\\Desktop\\repo\\Class3\\claas03Lamazon\\claas03Lamazon.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\claas03Lamazon\\claas03Lamazon.csproj": {
+    "C:\\Users\\User\\Desktop\\repo\\Class3\\claas03Lamazon\\claas03Lamazon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\claas03Lamazon\\claas03Lamazon.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\repo\\Class3\\claas03Lamazon\\claas03Lamazon.csproj",
         "projectName": "claas03Lamazon",
-        "projectPath": "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\claas03Lamazon\\claas03Lamazon.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\repo\\Class3\\claas03Lamazon\\claas03Lamazon.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\claas03Lamazon\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\repo\\Class3\\claas03Lamazon\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\Helper\\Helper.csproj": {
-                "projectPath": "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\Helper\\Helper.csproj"
+              "C:\\Users\\User\\Desktop\\repo\\Class3\\Helper\\Helper.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\repo\\Class3\\Helper\\Helper.csproj"
               }
             }
           }
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\User\\Desktop\\repo\\Class3\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\repo\\Class3\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\repo\\Class3\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\repo\\Class3\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -88,8 +88,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\Domain\\Domain.csproj"
+              "C:\\Users\\User\\Desktop\\repo\\Class3\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\repo\\Class3\\Domain\\Domain.csproj"
               }
             }
           }
@@ -121,14 +121,14 @@
         }
       }
     },
-    "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\Domain\\Domain.csproj": {
+    "C:\\Users\\User\\Desktop\\repo\\Class3\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\repo\\Class3\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\repo\\Class3\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\repo\\Class3\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -174,14 +174,14 @@
         }
       }
     },
-    "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\Helper\\Helper.csproj": {
+    "C:\\Users\\User\\Desktop\\repo\\Class3\\Helper\\Helper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\Helper\\Helper.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\repo\\Class3\\Helper\\Helper.csproj",
         "projectName": "Helper",
-        "projectPath": "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\Helper\\Helper.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\repo\\Class3\\Helper\\Helper.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\Helper\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\repo\\Class3\\Helper\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -198,11 +198,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\User\\Desktop\\repo\\Class3\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\repo\\Class3\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\Services\\Services.csproj": {
-                "projectPath": "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\Services\\Services.csproj"
+              "C:\\Users\\User\\Desktop\\repo\\Class3\\Services\\Services.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\repo\\Class3\\Services\\Services.csproj"
               }
             }
           }
@@ -240,14 +240,14 @@
         }
       }
     },
-    "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\Mappers\\Mappers.csproj": {
+    "C:\\Users\\User\\Desktop\\repo\\Class3\\Mappers\\Mappers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\Mappers\\Mappers.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\repo\\Class3\\Mappers\\Mappers.csproj",
         "projectName": "Mappers",
-        "projectPath": "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\Mappers\\Mappers.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\repo\\Class3\\Mappers\\Mappers.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\Mappers\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\repo\\Class3\\Mappers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -264,8 +264,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\ViewModelsVM\\ViewModelsVM.csproj": {
-                "projectPath": "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\ViewModelsVM\\ViewModelsVM.csproj"
+              "C:\\Users\\User\\Desktop\\repo\\Class3\\ViewModelsVM\\ViewModelsVM.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\repo\\Class3\\ViewModelsVM\\ViewModelsVM.csproj"
               }
             }
           }
@@ -297,14 +297,14 @@
         }
       }
     },
-    "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\Services\\Services.csproj": {
+    "C:\\Users\\User\\Desktop\\repo\\Class3\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\Services\\Services.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\repo\\Class3\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\Services\\Services.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\repo\\Class3\\Services\\Services.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\Services\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\repo\\Class3\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -321,14 +321,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\User\\Desktop\\repo\\Class3\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\repo\\Class3\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\Mappers\\Mappers.csproj": {
-                "projectPath": "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\Mappers\\Mappers.csproj"
+              "C:\\Users\\User\\Desktop\\repo\\Class3\\Mappers\\Mappers.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\repo\\Class3\\Mappers\\Mappers.csproj"
               },
-              "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\ViewModelsVM\\ViewModelsVM.csproj": {
-                "projectPath": "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\ViewModelsVM\\ViewModelsVM.csproj"
+              "C:\\Users\\User\\Desktop\\repo\\Class3\\ViewModelsVM\\ViewModelsVM.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\repo\\Class3\\ViewModelsVM\\ViewModelsVM.csproj"
               }
             }
           }
@@ -360,14 +360,14 @@
         }
       }
     },
-    "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\ViewModelsVM\\ViewModelsVM.csproj": {
+    "C:\\Users\\User\\Desktop\\repo\\Class3\\ViewModelsVM\\ViewModelsVM.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\ViewModelsVM\\ViewModelsVM.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\repo\\Class3\\ViewModelsVM\\ViewModelsVM.csproj",
         "projectName": "ViewModelsVM",
-        "projectPath": "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\ViewModelsVM\\ViewModelsVM.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\repo\\Class3\\ViewModelsVM\\ViewModelsVM.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\ViewModelsVM\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\repo\\Class3\\ViewModelsVM\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -384,8 +384,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\Domain\\Domain.csproj"
+              "C:\\Users\\User\\Desktop\\repo\\Class3\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\repo\\Class3\\Domain\\Domain.csproj"
               }
             }
           }

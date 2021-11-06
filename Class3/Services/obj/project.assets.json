@@ -88,11 +88,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\Services\\Services.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\repo\\Class3\\Services\\Services.csproj",
       "projectName": "Services",
-      "projectPath": "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\Services\\Services.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\repo\\Class3\\Services\\Services.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\Services\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\repo\\Class3\\Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -109,14 +109,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\User\\Desktop\\repo\\Class3\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\repo\\Class3\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\Mappers\\Mappers.csproj": {
-              "projectPath": "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\Mappers\\Mappers.csproj"
+            "C:\\Users\\User\\Desktop\\repo\\Class3\\Mappers\\Mappers.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\repo\\Class3\\Mappers\\Mappers.csproj"
             },
-            "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\ViewModelsVM\\ViewModelsVM.csproj": {
-              "projectPath": "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\ViewModelsVM\\ViewModelsVM.csproj"
+            "C:\\Users\\User\\Desktop\\repo\\Class3\\ViewModelsVM\\ViewModelsVM.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\repo\\Class3\\ViewModelsVM\\ViewModelsVM.csproj"
             }
           }
         }

@@ -155,11 +155,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\claas03Lamazon\\claas03Lamazon.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\repo\\Class3\\claas03Lamazon\\claas03Lamazon.csproj",
       "projectName": "claas03Lamazon",
-      "projectPath": "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\claas03Lamazon\\claas03Lamazon.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\repo\\Class3\\claas03Lamazon\\claas03Lamazon.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\claas03Lamazon\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\repo\\Class3\\claas03Lamazon\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -176,8 +176,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\Helper\\Helper.csproj": {
-              "projectPath": "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\Helper\\Helper.csproj"
+            "C:\\Users\\User\\Desktop\\repo\\Class3\\Helper\\Helper.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\repo\\Class3\\Helper\\Helper.csproj"
             }
           }
         }

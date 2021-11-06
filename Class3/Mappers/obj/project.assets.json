@@ -50,11 +50,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\Mappers\\Mappers.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\repo\\Class3\\Mappers\\Mappers.csproj",
       "projectName": "Mappers",
-      "projectPath": "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\Mappers\\Mappers.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\repo\\Class3\\Mappers\\Mappers.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\Mappers\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\repo\\Class3\\Mappers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -71,8 +71,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\ViewModelsVM\\ViewModelsVM.csproj": {
-              "projectPath": "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\ViewModelsVM\\ViewModelsVM.csproj"
+            "C:\\Users\\User\\Desktop\\repo\\Class3\\ViewModelsVM\\ViewModelsVM.csproj": {
+              "projectPath": "C:\\Users\\User\\Desktop\\repo\\Class3\\ViewModelsVM\\ViewModelsVM.csproj"
             }
           }
         }

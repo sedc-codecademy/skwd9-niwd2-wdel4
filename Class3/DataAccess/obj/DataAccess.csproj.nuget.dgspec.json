@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\DataAccess\\DataAccess.csproj": {}
+    "C:\\Users\\User\\Desktop\\repo\\Class3\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\User\\Desktop\\repo\\Class3\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\repo\\Class3\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\repo\\Class3\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\repo\\Class3\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\Domain\\Domain.csproj"
+              "C:\\Users\\User\\Desktop\\repo\\Class3\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\repo\\Class3\\Domain\\Domain.csproj"
               }
             }
           }
@@ -61,14 +61,14 @@
         }
       }
     },
-    "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\Domain\\Domain.csproj": {
+    "C:\\Users\\User\\Desktop\\repo\\Class3\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\repo\\Class3\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\repo\\Class3\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\RepoDenesno\\Class3\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\repo\\Class3\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
