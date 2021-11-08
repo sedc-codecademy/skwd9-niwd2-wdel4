@@ -1,0 +1,55 @@
+﻿@model OrderViewModel
+
+
+<h1>Order</h1>
+
+<div class="container">
+    <div class="col-md-12">
+        <div class="row">
+            <div class="col-md-12">
+                <label asp-for="User.Fullname"></label>
+                <p>@Model.User.Fullname</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <label asp-for="Id"></label>
+                <p>@Model.Id</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <label asp-for="Status"></label>
+                <p>@Model.Status</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <label asp-for="Price"></label>
+                <p>@Model.Price $</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <label asp-for="Products"></label>
+                @if (Model.Products.Count() > 0)
+                {
+                    <ul>
+                        @foreach (var product in Model.Products)
+                        {
+                            <li>@product.Name - @product.Price $</li>
+                        }
+                    </ul>
+                    @if (Model.Status == StatusTypeViewModel.Init)
+                    {
+                        <a asp-controller="Order" asp-action="ChangeStatus" asp-route-orderId="@Model.Id" asp-route-statusid="1" class="btn btn-primary">Proceed</a>
+                    }
+                }
+                else
+                {
+                    <p>Your is empty</p>
+                }
+            </div>
+        </div>
+    </div>
+</div>

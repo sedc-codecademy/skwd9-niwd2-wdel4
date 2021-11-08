@@ -59,5 +59,45 @@ namespace SEDC.Lamazon.Controllers
                 throw new Exception($"Message: {ex.Message}");
             }
         }
+
+        [Authorize(Roles = "user")]
+        public IActionResult OrderDetails(int orderId)
+        {
+            try
+            {
+                UserViewModel user = _userService.GetCurrentUser(User.Identity.Name);
+                OrderViewModel order = _orderService.GetOrderById(orderId, user.Id);
+
+                if (order.Id > 0)
+                {
+                    return View("order", order);
+                }
+                else
+                {
+                    throw new Exception($"Invalid order");
+                }
+            }
+            catch (Exception ex)
+            {
+
+                throw new Exception($"Message: {ex.Message}");
+            }
+        }
+
+        [Authorize(Roles = "user")]
+        public IActionResult ChangeStatus(int orderId, int statusId)
+        {
+            try
+            {
+                UserViewModel user = _userService.GetCurrentUser(User.Identity.Name);
+                _orderService.ChangeStatus(orderId, user.Id, (StatusTypeViewModel)statusId);
+                return RedirectToAction("ListOrders");
+            }
+            catch (Exception ex)
+            {
+
+                throw new Exception($"Message: {ex.Message}");
+            }
+        }
     }
 }

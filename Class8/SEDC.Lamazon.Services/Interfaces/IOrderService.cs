@@ -11,5 +11,6 @@ namespace SEDC.Lamazon.Services.Interfaces
         IEnumerable<OrderViewModel> GetAllOrders();
         OrderViewModel GetOrderById(int id);
         int ChangeStatus(int orderId, string userId, StatusTypeViewModel status);
+        OrderViewModel GetOrderById(int id, string userId);
     }
 }

@@ -180,3 +180,5 @@ C:\Users\Manass\Desktop\Class8\SEDC.Lamazon\obj\Debug\netcoreapp2.1\SEDC.Lamazon
 C:\Users\Manass\Desktop\Class8\SEDC.Lamazon\obj\Debug\netcoreapp2.1\SEDC.Lamazon.pdb
 C:\Users\Manass\Desktop\Class8\SEDC.Lamazon\obj\Debug\netcoreapp2.1\SEDC.Lamazon.genruntimeconfig.cache
 C:\Users\Manass\Desktop\Class8\SEDC.Lamazon\obj\Debug\netcoreapp2.1\Razor\Views\User\Register.cshtml.g.cs
+C:\Users\Manass\Desktop\Class8\SEDC.Lamazon\obj\Debug\netcoreapp2.1\Razor\Views\Order\ListOrders.cshtml.g.cs
+C:\Users\Manass\Desktop\Class8\SEDC.Lamazon\obj\Debug\netcoreapp2.1\Razor\Views\Order\Order.cshtml.g.cs
