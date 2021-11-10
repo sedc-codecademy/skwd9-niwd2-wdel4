@@ -1,0 +1,55 @@
+﻿@model LoginViewModel
+
+<h2>Welcome!</h2>
+
+<div class="container">
+    <div>
+        <h2>Please login!</h2>
+        <div class="col-md-12">
+            <form asp-action="LogIn" asp-controller="User" method="post">
+                <div class="row">
+                    <div class="col-lg-2"></div>
+                    <div class="col-lg-4">
+                        <label asp-for="Username"></label>
+                        <div class="input-group">
+                            <span class="input-group-addon" id="basic-addon1"><span class="glyphicon glyphicon-user "></span></span>
+                            <input class="form-control" type="text" asp-for="Username" />
+                        </div>
+                        <span asp-validation-for="Username" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-lg-2"></div>
+                    <div class="col-lg-4">
+                        <label asp-for="Password"></label>
+                        <div class="input-group">
+                            <span class="input-group-addon" id="basic-addon1"><span class="glyphicon glyphicon-lock "></span></span>
+                            <input class="form-control" type="password" asp-for="Password" />
+                        </div>
+                        <span asp-validation-for="Password" class="text-danger"></span>
+                    </div>
+                </div>
+                <br />
+                <div class="row">
+                    <div class="col-md-5"></div>
+                    <div class="col-md-2">
+                        <button type="submit" class="btn btn-success">Login</button>
+                    </div>
+
+                </div>
+
+            </form>
+
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <div class="col-md-6">
+                <h4>
+                    Don't have an account? <a asp-action="Register" asp-controller="User">Register here</a> and procees buying!
+                </h4>
+            </div>
+        </div>
+    </div>
+</div>
