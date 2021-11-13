@@ -1,0 +1,49 @@
+2021-11-13 10:58:48.569 +01:00 [DBG] Authenticating user with username pane.manaskov:
+2021-11-13 10:58:49.030 +01:00 [DBG] Authenticating user with username pane.manaskov:
+2021-11-13 10:58:49.067 +01:00 [ERR] Message: One or more errors occurred. (A task was canceled.)
+2021-11-13 10:58:49.213 +01:00 [DBG] User with username pane.manaskov succesfully logged in as Customer
+2021-11-13 10:58:49.240 +01:00 [INF] Fetching all products
+2021-11-13 10:58:49.271 +01:00 [INF] Product Name: Samsung A40
+2021-11-13 10:58:49.272 +01:00 [INF] Product Name: SSD 1TB
+2021-11-13 10:58:49.273 +01:00 [INF] Product Name: C# in depth
+2021-11-13 10:58:49.274 +01:00 [INF] Product Name: Clean Code
+2021-11-13 10:58:49.275 +01:00 [INF] Product Name: Rakija
+2021-11-13 10:58:49.276 +01:00 [INF] Product Name: Sparkling Water
+2021-11-13 10:58:49.277 +01:00 [INF] Product Name: Meze
+2021-11-13 10:58:49.278 +01:00 [INF] Product Name: Stew in a can
+2021-11-13 10:58:49.278 +01:00 [INF] Product Name: Glasses set
+2021-11-13 10:58:49.279 +01:00 [INF] Product Name: Plastic knives and forks
+2021-11-13 10:58:49.280 +01:00 [INF] Product Name: Ice
+2021-11-13 10:58:49.280 +01:00 [INF] Product Name: Plastic plates
+2021-11-13 11:02:13.037 +01:00 [DBG] Authenticating user with username pane.manaskov:
+2021-11-13 11:02:13.622 +01:00 [DBG] User with username pane.manaskov succesfully logged in as Customer
+2021-11-13 11:02:13.645 +01:00 [INF] Fetching all products
+2021-11-13 11:02:13.678 +01:00 [INF] Product Name: Samsung A40
+2021-11-13 11:02:13.680 +01:00 [INF] Product Name: SSD 1TB
+2021-11-13 11:02:13.681 +01:00 [INF] Product Name: C# in depth
+2021-11-13 11:02:13.682 +01:00 [INF] Product Name: Clean Code
+2021-11-13 11:02:13.683 +01:00 [INF] Product Name: Rakija
+2021-11-13 11:02:13.684 +01:00 [INF] Product Name: Sparkling Water
+2021-11-13 11:02:13.684 +01:00 [INF] Product Name: Meze
+2021-11-13 11:02:13.685 +01:00 [INF] Product Name: Stew in a can
+2021-11-13 11:02:13.686 +01:00 [INF] Product Name: Glasses set
+2021-11-13 11:02:13.687 +01:00 [INF] Product Name: Plastic knives and forks
+2021-11-13 11:02:13.690 +01:00 [INF] Product Name: Ice
+2021-11-13 11:02:13.692 +01:00 [INF] Product Name: Plastic plates
+2021-11-13 11:02:39.773 +01:00 [WRN] The user with Id 0 does not exist
+2021-11-13 11:04:54.983 +01:00 [DBG] Authenticating user with username pane.manaskov:
+2021-11-13 11:04:55.588 +01:00 [DBG] User with username pane.manaskov succesfully logged in as Customer
+2021-11-13 11:04:55.612 +01:00 [INF] Fetching all products
+2021-11-13 11:04:55.645 +01:00 [INF] Product Name: Samsung A40
+2021-11-13 11:04:55.646 +01:00 [INF] Product Name: SSD 1TB
+2021-11-13 11:04:55.646 +01:00 [INF] Product Name: C# in depth
+2021-11-13 11:04:55.647 +01:00 [INF] Product Name: Clean Code
+2021-11-13 11:04:55.647 +01:00 [INF] Product Name: Rakija
+2021-11-13 11:04:55.648 +01:00 [INF] Product Name: Sparkling Water
+2021-11-13 11:04:55.649 +01:00 [INF] Product Name: Meze
+2021-11-13 11:04:55.649 +01:00 [INF] Product Name: Stew in a can
+2021-11-13 11:04:55.650 +01:00 [INF] Product Name: Glasses set
+2021-11-13 11:04:55.651 +01:00 [INF] Product Name: Plastic knives and forks
+2021-11-13 11:04:55.651 +01:00 [INF] Product Name: Ice
+2021-11-13 11:04:55.652 +01:00 [INF] Product Name: Plastic plates
+2021-11-13 11:05:28.899 +01:00 [ERR] Message: Message: Object reference not set to an instance of an object.
